@@ -1,6 +1,6 @@
 # Running playbook.yml after cloning the repository
 
-- run build_and_run_images.sh to build cointainers (use chmod +x if you don't have permissions to execute the script)
+- run build_and_run_images.sh to build images (use chmod +x if you don't have permissions to execute the script)
 
 - use one of the commands (depending on the ansible version)
 
