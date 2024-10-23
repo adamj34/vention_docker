@@ -1,0 +1,10 @@
+---
+- name: Test playbook
+  hosts: localhost
+  connection: local 
+  gather_facts: false
+
+  tasks:
+    - name: Test
+      debug:
+        msg: "Ansible is working"
